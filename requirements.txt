@@ -1,0 +1,6 @@
+
+PySide6
+sounddevice
+faster-whisper
+numpy
+requests
